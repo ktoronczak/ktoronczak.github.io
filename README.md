@@ -35,9 +35,4 @@ a kod typu `print("hello world")` to jakas amatorszczyzna i wstyd
 </div>
 
 
-.gallery {
-	border: 1px solid black;
-	width: 75%;
-	margin: 0 auto;
-	text-align: center;
-}
+
