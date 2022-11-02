@@ -27,35 +27,17 @@ a kod typu `print("hello world")` to jakas amatorszczyzna i wstyd
 
 ![stepik.jpg](stepik.jpg)
 
-
-![](stepik.jpg) 
-
-*![](stepik.jpg)*
-
-**![](stepik.jpg)**
-
-![Block image](https://picsum.photos/id/1020/600/300#block)
-
-![Avatar](https://picsum.photos/id/219/300/300#avatar)
-
-![Align right](https://picsum.photos/id/564/500/300#right)
+<div class="gallery">
+  <a target="_blank" href="gigachad.jpg">
+    <img src="https://i.kym-cdn.com/entries/icons/original/000/026/152/gigachad.jpg" alt="GIGACHADifa" width="600" height="400">
+  </a>
+  <div class="desc">ZDJECIE CSS 600x400</div>
+</div>
 
 
-
-img[src$="https://picsum.photos/id/1020/600/300#block"] {
-  display: block;
-  margin: 0 auto;
-}
-
-img[src$="https://picsum.photos/id/219/300/300#avatar"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
-
-img[src$="https://picsum.photos/id/564/500/300#right)"] {
-  float: right;
-  margin-left: 1em;
-  margin-bottom: 1em;
+.gallery {
+	border: 1px solid black;
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
 }
