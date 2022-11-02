@@ -26,3 +26,16 @@ def sum3(a,b,c):
 a kod typu `print("hello world")` to jakas amatorszczyzna i wstyd
 
 ![stepik.jpg](stepik.jpg)
+
+
+![](stepik.jpg) 
+
+*![](stepik.jpg)*
+
+**![](stepik.jpg)**
+
+img { /* default */ }
+
+em > img { float: right; }
+
+strong > img { width: 100%; }
