@@ -4,4 +4,8 @@
     margin: 0 auto;
     text-align: center;
 }
+td {
+    text-align: center;
+    border: 3px solid black;
+}
 
