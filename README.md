@@ -25,4 +25,4 @@ def sum3(a,b,c):
 ```
 a kod typu `print("hello world")` to jakas amatorszczyzna i wstyd
 
-![rock.jpg](rock.jpg)
+![stepik.jpg](stepik.jpg)
