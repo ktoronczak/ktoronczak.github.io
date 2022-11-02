@@ -42,19 +42,19 @@ a kod typu `print("hello world")` to jakas amatorszczyzna i wstyd
 
 
 
-img[src$="#block"] {
+img[src$="https://picsum.photos/id/1020/600/300#block"] {
   display: block;
   margin: 0 auto;
 }
 
-img[src$="#avatar"] {
+img[src$="https://picsum.photos/id/219/300/300#avatar"] {
   display: block;
   margin: 0 auto;
   border-radius: 50%;
   max-width: 50%;
 }
 
-img[src$="#right"] {
+img[src$="https://picsum.photos/id/564/500/300#right)"] {
   float: right;
   margin-left: 1em;
   margin-bottom: 1em;
