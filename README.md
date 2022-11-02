@@ -34,8 +34,20 @@ a kod typu `print("hello world")` to jakas amatorszczyzna i wstyd
 
 **![](stepik.jpg)**
 
-img { /* default */ }
+img[src$="#stepik.jpg"] {
+  display: block;
+  margin: 0 auto;
+}
 
-em > img { float: right; }
+img[src$="#stepik.jpg"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
 
-strong > img { width: 100%; }
+img[src$="#stepik.jpg"] {
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
